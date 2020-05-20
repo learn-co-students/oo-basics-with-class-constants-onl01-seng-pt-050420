@@ -23,5 +23,5 @@ describe 'Shoe' do
 
       expect(Shoe::BRANDS.size).to eq(3)
     end
-  end
+   end
 end
